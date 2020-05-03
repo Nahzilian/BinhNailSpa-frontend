@@ -1,0 +1,39 @@
+{
+  "icons": [
+    {
+      "src": "/assets/icon_192x192.07dcfb36dc844f98ba4fdb0dd074272f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon_128x128.928113c8ebae8a21cbc2c5986438fc9a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon_96x96.12575553c86a5c86b726a1d520ecd954.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Fresha",
+  "short_name": "Fresha",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Instantly book salons and spas nearby",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.fresha.Fresha",
+      "id": "com.fresha.Fresha"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/app/apple-store/id1297230801"
+    }
+  ]
+}
